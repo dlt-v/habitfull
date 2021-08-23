@@ -43,7 +43,8 @@
             "tabWidth": 4,
             "singleQuote": true,
             "trailingComma": "all",
-            "arrowParens": "avoid"
+            "arrowParens": "avoid",
+            "semi": true
         }
     }
 }
